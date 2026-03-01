@@ -12,20 +12,21 @@
 
   <DisplayName DefaultValue="DataHygiene" />
   <Description DefaultValue="Clean spreadsheet data with one click." />
-  <SupportUrl DefaultValue="https://YOUR_NETLIFY_URL" />
+  <SupportUrl DefaultValue="https://majestic-kringle-082ce8.netlify.app/" />
 
   <Hosts>
     <Host Name="Workbook" />
   </Hosts>
 
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://YOUR_NETLIFY_URL/index.html" />
+    <SourceLocation DefaultValue="https://majestic-kringle-082ce8.netlify.app/index.html" />
   </DefaultSettings>
 
   <Permissions>ReadWriteDocument</Permissions>
 
   <AppDomains>
-    <AppDomain>https://YOUR_NETLIFY_URL</AppDomain>
+    <AppDomain>https://majestic-kringle-082ce8.netlify.app/</AppDomain>
   </AppDomains>
+
 
 </OfficeApp>
